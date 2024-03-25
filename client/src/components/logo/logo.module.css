@@ -1,0 +1,9 @@
+.navLogo {
+    height: 4rem;
+}
+.navLogo img {
+    height: 100%;
+    width: 100%;
+    cursor: pointer;
+    mix-blend-mode: darken;
+}
